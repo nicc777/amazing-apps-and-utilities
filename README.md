@@ -10,12 +10,13 @@ The list is will grow over time. At some point I may create a way to document ol
 
 # Command Line Utilities for Laptop/Workstation
 
-| Name                                         | Description             | License     | Personal Notes                                                                             |
-|----------------------------------------------|-------------------------|-------------|--------------------------------------------------------------------------------------------|
-| [btop](https://github.com/aristocratos/btop) | A nicer `top`           | Open Source | Get a much better view of your system resources from the command line                      |
-| [duf](https://github.com/muesli/duf)         | Disk Usage/Free Utility | Open Source | Occasionally I use this tool to view my disk space usage. Love the layout.                 |
-| [dua](https://github.com/Byron/dua-cli/)     | Disk Usage Analyzer     | Open Source | More granular than `duf` and interactive. Find what is actually using all your disk space. |
-| [Oh My Zsh](https://ohmyz.sh/)               | Managing Zsh configs      Open Source | I can't live in ZSH without this! Period!                                                  |
+| Name                                         | Description             | Personal Notes                                                                                 |
+|----------------------------------------------|-------------------------|------------------------------------------------------------------------------------------------|
+| [atuin](https://github.com/ellie/atuin)      | Better shell history    | Just started using this as my shell history replacement. Loving it - really easy and powerful! |
+| [btop](https://github.com/aristocratos/btop) | A nicer `top`           | Get a much better view of your system resources from the command line                          |
+| [duf](https://github.com/muesli/duf)         | Disk Usage/Free Utility | Occasionally I use this tool to view my disk space usage. Love the layout.                     |
+| [dua](https://github.com/Byron/dua-cli/)     | Disk Usage Analyzer     | More granular than `duf` and interactive. Find what is actually using all your disk space.     |
+| [Oh My Zsh](https://ohmyz.sh/)               | Managing Zsh configs    | I can't live in ZSH without this! Period!                                                      |
 
 
 # Online Tools (Websites/Plugins/Etc.)

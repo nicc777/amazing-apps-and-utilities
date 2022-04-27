@@ -15,6 +15,7 @@ The list is will grow over time. At some point I may create a way to document ol
 | [btop](https://github.com/aristocratos/btop) | A nicer `top`           | Open Source | Get a much better view of your system resources from the command line                      |
 | [duf](https://github.com/muesli/duf)         | Disk Usage/Free Utility | Open Source | Occasionally I use this tool to view my disk space usage. Love the layout.                 |
 | [dua](https://github.com/Byron/dua-cli/)     | Disk Usage Analyzer     | Open Source | More granular than `duf` and interactive. Find what is actually using all your disk space. |
+| [Oh My Zsh](https://ohmyz.sh/)               | Managing Zsh configs      Open Source | I can't live in ZSH without this! Period!                                                  |
 
 
 # Online Tools (Websites/Plugins/Etc.)

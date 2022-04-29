@@ -10,6 +10,8 @@ The list is will grow over time. At some point I may create a way to document ol
 
 # Command Line Utilities for Laptop/Workstation
 
+## General
+
 | Name                                         | Description             | Personal Notes                                                                                 |
 |----------------------------------------------|-------------------------|------------------------------------------------------------------------------------------------|
 | [atuin](https://github.com/ellie/atuin)      | Better shell history    | Just started using this as my shell history replacement. Loving it - really easy and powerful! |
@@ -17,6 +19,13 @@ The list is will grow over time. At some point I may create a way to document ol
 | [duf](https://github.com/muesli/duf)         | Disk Usage/Free Utility | Occasionally I use this tool to view my disk space usage. Love the layout.                     |
 | [dua](https://github.com/Byron/dua-cli/)     | Disk Usage Analyzer     | More granular than `duf` and interactive. Find what is actually using all your disk space.     |
 | [Oh My Zsh](https://ohmyz.sh/)               | Managing Zsh configs    | I can't live in ZSH without this! Period!                                                      |
+
+## Containers/Docker and Kubernetes
+
+| Name                                                        | Description                                                                        | Personal Notes                                                                                 |
+|------------------------------------------------------------|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| [krew](https://github.com/kubernetes-sigs/krew)            | Krew is the package manager for kubectl plugins                                     | Installation and usage is straight forward and easy.                                           |
+| [kube-capacity](https://github.com/robscott/kube-capacity) | Provides an overview of the resource requests, limits, and utilization in a cluster | Convenient way to keep an eye on resources from the command line.                              |
 
 
 # Online Tools (Websites/Plugins/Etc.)

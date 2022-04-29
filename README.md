@@ -25,6 +25,11 @@ The list is will grow over time. At some point I may create a way to document ol
 | Name                                                        | Description                                                                        | Personal Notes                                                                                 |
 |------------------------------------------------------------|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | [krew](https://github.com/kubernetes-sigs/krew)            | Krew is the package manager for kubectl plugins                                     | Installation and usage is straight forward and easy.                                           |
+
+## My favorite `krew` plugins
+
+| Name                                                        | Description                                                                        | Personal Notes                                                                                 |
+|------------------------------------------------------------|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | [kube-capacity](https://github.com/robscott/kube-capacity) | Provides an overview of the resource requests, limits, and utilization in a cluster | Convenient way to keep an eye on resources from the command line.                              |
 
 

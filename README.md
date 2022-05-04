@@ -37,10 +37,10 @@ The list is will grow over time. At some point I may create a way to document ol
 
 ## My favorite `krew` plugins
 
-| Name                                                        | Description                                                                         | Personal Notes                                                                                 |
-|-------------------------------------------------------------|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| [ktop](https://github.com/vladimirvivien/ktop)              | A top-like tool for your Kubernetes cluster.                                        |                                                                                                |
-| [kube-capacity](https://github.com/robscott/kube-capacity)  | Provides an overview of the resource requests, limits, and utilization in a cluster | Convenient way to keep an eye on resources from the command line.                              |
+| Name                                                                               | Description                                                                         | Personal Notes                                                                                 |
+|------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| [ktop](https://github.com/vladimirvivien/ktop)                                     | A top-like tool for your Kubernetes cluster.                                        |                                                                                                |
+| [resource-capacity](https://github.com/robscott/kube-capacity) aka `kube-capacity` | Provides an overview of the resource requests, limits, and utilization in a cluster | Convenient way to keep an eye on resources from the command line.                              |
 
 
 # Online Tools (Websites/Plugins/Etc.)

@@ -5,6 +5,7 @@
   - [Containers/Docker and Kubernetes](#containersdocker-and-kubernetes)
   - [My favorite `krew` plugins](#my-favorite-krew-plugins)
 - [Online Tools (Websites/Plugins/Etc.)](#online-tools-websitespluginsetc)
+- [My Own Homegrown Stuff](#my-own-homegrown-stuff)
 - [NO LONGER USING](#no-longer-using)
 
 
@@ -31,7 +32,7 @@ The list is will grow over time. At some point I may create a way to document ol
 
 ## Containers/Docker and Kubernetes
 
-| Name                                                        | Description                                                                        | Personal Notes                                                                                 |
+| Name                                                       | Description                                                                         | Personal Notes                                                                                 |
 |------------------------------------------------------------|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | [krew](https://github.com/kubernetes-sigs/krew)            | Krew is the package manager for kubectl plugins                                     | Installation and usage is straight forward and easy.                                           |
 
@@ -52,6 +53,12 @@ _**Note**_: My preferred web browser is [Firefox](https://www.mozilla.org/en-US/
 | [Diigo](https://www.diigo.com/)          | Online Bookmarks, notes and annotation site with Browser plugins | Either      | Been using it for years, before browsers supported cloud sync. I still have a lot of stuff there and still use it occasionally. With the browser plugin, it can augment your google searches with results from your diigo library as well. |
 | [GitPod](https://gitpod.io)              | VSCode (and InteliJ) IDE in the web browser.                     | Either      | Seamlessly integrate with GitHub and/or GitLab. Really good for on the move coding, especially from iPad.                                                                                                                                  |
 | [MS Office 365](https://www.office.com/) | Office productivity suite. Saas.                                 | Paid        | I switch often between Windows, Linux and Mac. MS Office 365 is my goto office suite that I now use almost exclusively in the browser.                                                                                                     |
+
+# My Own Homegrown Stuff
+
+| Name                                                                                                                                                       | Description                                                                         | Personal Notes                                                                                 |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| [get_kubectl.sh](https://gist.githubusercontent.com/nicc777/1475f894261f17dcd5c71b24e3f2f81d/raw/4c24cd8fe2cf787948f04e188560f11514ac170d/get_kubectl.sh)  | Always get the latest version of `kubectl` on Linux with this command               | Quick and easy way for me to keep `kubectl` up to date.                                        |
 
 # NO LONGER USING
 

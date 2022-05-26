@@ -1,7 +1,8 @@
 
 - [amazing-apps-and-utilities](#amazing-apps-and-utilities)
 - [Command Line Utilities for Laptop/Workstation](#command-line-utilities-for-laptopworkstation)
-  - [General](#general)
+  - [Command Line](#command-line)
+  - [GUI Applications](#gui-applications)
   - [Containers/Docker and Kubernetes](#containersdocker-and-kubernetes)
   - [My favorite `krew` plugins](#my-favorite-krew-plugins)
 - [Online Tools (Websites/Plugins/Etc.)](#online-tools-websitespluginsetc)
@@ -21,7 +22,7 @@ The list is will grow over time. At some point I may create a way to document ol
 
 # Command Line Utilities for Laptop/Workstation
 
-## General
+## Command Line
 
 | Name                                         | Description              | Personal Notes                                                                                                                                                                                                                                                                      |
 |----------------------------------------------|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -31,6 +32,14 @@ The list is will grow over time. At some point I may create a way to document ol
 | [mc](https://midnight-commander.org/)        | File Manager             | For those old enough to remember, this is a [Norton Commander](https://en.wikipedia.org/wiki/Norton_Commander) clone, arguably one of the best CLI visual file managers which is why it is still widely used today. IMHO this should be default even with OS minimal installations. |
 | [nmap](https://nmap.org/)                    | Network Security Scanner | If you work with networks or with network services, you need this tool!                                                                                                                                                                                                             |
 | [Oh My Zsh](https://ohmyz.sh/)               | Managing Zsh configs     | I can't live in ZSH without this! Period!                                                                                                                                                                                                                                           |
+
+
+## GUI Applications
+
+| Name                                                | Description              | Personal Notes                                                                                                          |
+|-----------------------------------------------------|--------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| [draw.io](https://github.com/jgraph/drawio-desktop) | Diagram Tool             | Excellent selection of stencils including AWS, Kubernetes and many more. Includes stencils for modeling like UML and C4 |
+
 
 ## Containers/Docker and Kubernetes
 

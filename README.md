@@ -45,6 +45,7 @@ The list is will grow over time. At some point I may create a way to document ol
 
 | Name                                                       | Description                                                                         | Personal Notes                                                                                 |
 |------------------------------------------------------------|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| [kube-ps1](https://github.com/jonmosco/kube-ps1)           | Adds the current K8s info on `kubectl` to Bash/Zsh prompt (i.e. the `$PS1`).        | Very quick way to see to which cluster you are issuing commands to from the prompt             |
 | [krew](https://github.com/kubernetes-sigs/krew)            | Krew is the package manager for kubectl plugins                                     | Installation and usage is straight forward and easy.                                           |
 
 ## My favorite `krew` plugins

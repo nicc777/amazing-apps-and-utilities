@@ -37,9 +37,10 @@ The list is will grow over time. At some point I may create a way to document ol
 
 ## GUI Applications
 
-| Name                                                | Description              | Personal Notes                                                                                                          |
-|-----------------------------------------------------|--------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| [draw.io](https://github.com/jgraph/drawio-desktop) | Diagram Tool             | Excellent selection of stencils including AWS, Kubernetes and many more. Includes stencils for modeling like UML and C4 |
+| Name                                                | Description              | Personal Notes                                                                                                                     |
+|-----------------------------------------------------|--------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| [draw.io](https://github.com/jgraph/drawio-desktop) | Diagram Tool             | Excellent selection of stencils including AWS, Kubernetes and many more. Includes stencils for modeling like UML and C4            |
+| [VSCode](https://code.visualstudio.com/)            | IDE                      | Currently my favourite IDE. Runs basically anywhere - even in a web browser if you use services like [GitPod](https://gitpod.io/). |
 
 
 ## Containers/Docker and Kubernetes

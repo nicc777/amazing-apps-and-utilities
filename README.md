@@ -45,10 +45,11 @@ The list is will grow over time. At some point I may create a way to document ol
 
 ## Containers/Docker and Kubernetes
 
-| Name                                                       | Description                                                                         | Personal Notes                                                                                 |
-|------------------------------------------------------------|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| [kube-ps1](https://github.com/jonmosco/kube-ps1)           | Adds the current K8s info on `kubectl` to Bash/Zsh prompt (i.e. the `$PS1`).        | Very quick way to see to which cluster you are issuing commands to from the prompt             |
-| [krew](https://github.com/kubernetes-sigs/krew)            | Krew is the package manager for kubectl plugins                                     | Installation and usage is straight forward and easy.                                           |
+| Name                                                       | Description                                                                         | Personal Notes                                                                                                   |
+|------------------------------------------------------------|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| [Helm](https://helm.sh/)                                   | The package manager for Kubernetes. Think APT, RPM etc. but for Kubernetes.         | Powerfull package management option. Works great with GitOps tools like [ArgoCD](https://argoproj.github.io/cd/) |
+| [kube-ps1](https://github.com/jonmosco/kube-ps1)           | Adds the current K8s info on `kubectl` to Bash/Zsh prompt (i.e. the `$PS1`).        | Very quick way to see to which cluster you are issuing commands to from the prompt                               |
+| [krew](https://github.com/kubernetes-sigs/krew)            | Krew is the package manager for kubectl plugins                                     | Installation and usage is straight forward and easy.                                                             |
 
 ## My favorite `krew` plugins
 

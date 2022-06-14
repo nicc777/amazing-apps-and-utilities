@@ -9,6 +9,7 @@
         "kube",
         "kubectl",
         "Kubernetes",
+        "kustomize",
         "nmap"
     ]
 }

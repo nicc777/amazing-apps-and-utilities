@@ -42,17 +42,18 @@ The list is will grow over time. At some point I may create a way to document ol
 | Name                                                | Description              | Personal Notes                                                                                                                                   |
 |-----------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | [draw.io](https://github.com/jgraph/drawio-desktop) | Diagram Tool             | Excellent selection of stencils including AWS, Kubernetes and many more. Includes stencils for modeling like UML and [C4](https://c4model.com/). |
-| [VSCode](https://code.visualstudio.com/)            | IDE                      | Currently my favourite IDE. Runs basically anywhere - even in a web browser if you use services like [GitPod](https://gitpod.io/).               |
+| [VSCode](https://code.visualstudio.com/)            | IDE                      | Currently my favorite IDE. Runs basically anywhere - even in a web browser if you use services like [GitPod](https://gitpod.io/).                |
 
 
 ## Containers/Docker and Kubernetes
 
-| Name                                                       | Description                                                                         | Personal Notes                                                                                                   |
-|------------------------------------------------------------|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| [Docker](https://docs.docker.com/get-docker/)              | Basically the industry standard container engine                                    | I use this as my primary tool for creating container images.                                                     |
-| [Helm](https://helm.sh/)                                   | The package manager for Kubernetes. Think APT, RPM etc. but for Kubernetes.         | Powerful package management option. Works great with GitOps tools like [ArgoCD](https://argoproj.github.io/cd/)  |
-| [kube-ps1](https://github.com/jonmosco/kube-ps1)           | Adds the current K8s info on `kubectl` to Bash/Zsh prompt (i.e. the `$PS1`).        | Very quick way to see to which cluster you are issuing commands to from the prompt                               |
-| [krew](https://github.com/kubernetes-sigs/krew)            | Krew is the package manager for kubectl plugins                                     | Installation and usage is straight forward and easy.                                                             |
+| Name                                                       | Description                                                                         | Personal Notes                                                                                                            |
+|------------------------------------------------------------|-------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| [Docker](https://docs.docker.com/get-docker/)              | Basically the industry standard container engine                                    | I use this as my primary tool for creating container images.                                                              |
+| [Helm](https://helm.sh/)                                   | The package manager for Kubernetes. Think APT, RPM etc. but for Kubernetes.         | Powerful package management option. Works great with GitOps tools like [ArgoCD](https://argoproj.github.io/cd/)           |
+| [kube-ps1](https://github.com/jonmosco/kube-ps1)           | Adds the current K8s info on `kubectl` to Bash/Zsh prompt (i.e. the `$PS1`).        | Very quick way to see to which cluster you are issuing commands to from the prompt                                        |
+| [kustomize](https://kustomize.io/)                         | Kubernetes native configuration management                                          | A simple/easy to use utility to maintain different configuration per environment - a lightweight Helm values if you will. |
+| [krew](https://github.com/kubernetes-sigs/krew)            | Krew is the package manager for kubectl plugins                                     | Installation and usage is straight forward and easy.                                                                      |
 
 ## My favorite `krew` plugins
 

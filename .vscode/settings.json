@@ -11,6 +11,7 @@
         "Kubernetes",
         "kustomize",
         "nmap",
-        "Pbone"
+        "Pbone",
+        "Wunderground"
     ]
 }

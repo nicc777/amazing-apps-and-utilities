@@ -5,6 +5,7 @@
   - [GUI Applications](#gui-applications)
   - [Containers/Docker and Kubernetes](#containersdocker-and-kubernetes)
   - [My favorite `krew` plugins](#my-favorite-krew-plugins)
+- [Emulation and Retro Computing](#emulation-and-retro-computing)
 - [Online Tools (Websites/Plugins/Etc.)](#online-tools-websitespluginsetc)
 - [My Own Homegrown Stuff](#my-own-homegrown-stuff)
 - [NO LONGER USING](#no-longer-using)
@@ -61,6 +62,13 @@ The list is will grow over time. At some point I may create a way to document ol
 |------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | [ktop](https://github.com/vladimirvivien/ktop)                                     | A top-like tool for your Kubernetes cluster.                                        |                                                                                                |
 | [resource-capacity](https://github.com/robscott/kube-capacity) aka `kube-capacity` | Provides an overview of the resource requests, limits, and utilization in a cluster | Convenient way to keep an eye on resources from the command line.                              |
+
+# Emulation and Retro Computing
+
+| Name                                                                               | Description                                                                         | Personal Notes                                                                                 |
+|------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| [PCem](https://pcem-emulator.co.uk/)                                               | Emulate older hardware.                                                             | v17 Still worked great on Ubuntu 20.04, but I have my doubts about the future of this project. |
+| [qemu](https://www.qemu.org/)                                                      | A generic and open source machine emulator and virtualizer                          | Also refer to [my Qemu Notes](https://github.com/nicc777/qemu-notes)                           |
 
 
 # Online Tools (Websites/Plugins/Etc.)

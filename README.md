@@ -6,6 +6,7 @@
   - [Containers/Docker and Kubernetes](#containersdocker-and-kubernetes)
   - [My favorite `krew` plugins](#my-favorite-krew-plugins)
 - [Emulation and Retro Computing](#emulation-and-retro-computing)
+  - [Software Repositories](#software-repositories)
 - [Online Tools (Websites/Plugins/Etc.)](#online-tools-websitespluginsetc)
 - [My Own Homegrown Stuff](#my-own-homegrown-stuff)
 - [NO LONGER USING](#no-longer-using)
@@ -70,6 +71,14 @@ The list is will grow over time. At some point I may create a way to document ol
 |------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | [PCem](https://pcem-emulator.co.uk/)                                               | Emulate older hardware.                                                             | v17 Still worked great on Ubuntu 20.04, but I have my doubts about the future of this project. |
 | [qemu](https://www.qemu.org/)                                                      | A generic and open source machine emulator and virtualizer                          | Also refer to [my Qemu Notes](https://github.com/nicc777/qemu-notes)                           |
+
+
+## Software Repositories
+
+| Name                                               | Description                                                                                                             | Personal Notes                                                                                 |
+|----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| [WinWorld](https://winworldpc.com/home)            | WinWorld is an online museum dedicated to the preservation and sharing of vintage, abandoned, and pre-release software. | Great resource for software if you are into retro computing.                                   |
+| [RPM Pbone](http://rpm.pbone.net/)                 | RPM Repository that contains a lot of older RPM's as well.                                                              | Great for searching for older RPM's                                                            |
 
 
 # Online Tools (Websites/Plugins/Etc.)

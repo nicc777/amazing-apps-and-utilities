@@ -45,6 +45,7 @@ The list is will grow over time. At some point I may create a way to document ol
 | Name                                                | Description              | Personal Notes                                                                                                                                   |
 |-----------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | [draw.io](https://github.com/jgraph/drawio-desktop) | Diagram Tool             | Excellent selection of stencils including AWS, Kubernetes and many more. Includes stencils for modeling like UML and [C4](https://c4model.com/). |
+| [Nyxt Browser](https://nyxt.atlas.engineer/)        | Web Browser              | The hacker's power-browser. Lots of emacs vibes (key bindings, buffers etc.)                                                                     |
 | [VSCode](https://code.visualstudio.com/)            | IDE                      | Currently my favorite IDE. Runs basically anywhere - even in a web browser if you use services like [GitPod](https://gitpod.io/).                |
 
 

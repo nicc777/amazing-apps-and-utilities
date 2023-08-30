@@ -9,6 +9,7 @@
   - [Software Repositories](#software-repositories)
 - [Online Tools (Websites/Plugins/Etc.)](#online-tools-websitespluginsetc)
 - [My Own Homegrown Stuff](#my-own-homegrown-stuff)
+- [List of Interesting Web Sites (various topics)](#list-of-interesting-web-sites-various-topics)
 - [NO LONGER USING](#no-longer-using)
 
 
@@ -100,6 +101,10 @@ _**Note**_: My preferred web browser is [Firefox](https://www.mozilla.org/en-US/
 | Name                                                                                                                                                       | Description                                                                         | Personal Notes                                                                                 |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | [get_kubectl.sh](https://gist.githubusercontent.com/nicc777/1475f894261f17dcd5c71b24e3f2f81d/raw/4c24cd8fe2cf787948f04e188560f11514ac170d/get_kubectl.sh)  | Always get the latest version of `kubectl` on Linux with this command               | Quick and easy way for me to keep `kubectl` up to date.                                        |
+
+# List of Interesting Web Sites (various topics)
+
+Maintained on a separate page [here](./websites.md)
 
 # NO LONGER USING
 

@@ -10,6 +10,7 @@
 - [Online Tools (Websites/Plugins/Etc.)](#online-tools-websitespluginsetc)
 - [My Own Homegrown Stuff](#my-own-homegrown-stuff)
 - [List of Interesting Web Sites (various topics)](#list-of-interesting-web-sites-various-topics)
+- [GitHub Projects of Interest](#github-projects-of-interest)
 - [NO LONGER USING](#no-longer-using)
 
 
@@ -106,9 +107,17 @@ _**Note**_: My preferred web browser is [Firefox](https://www.mozilla.org/en-US/
 
 Maintained on a separate page [here](./websites.md)
 
+# GitHub Projects of Interest
+
+| Name                                                                               | Description                                                                                                                                                          | Personal Notes                                                                                 |
+|------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| [NiceGUI](https://github.com/zauberzeug/nicegui)                                   | NiceGUI is an easy-to-use, Python-based UI framework, which shows up in your web browser. You can create buttons, dialogs, Markdown, 3D scenes, plots and much more. | Still need to try this out...                                                                  |
+
 # NO LONGER USING
 
 | Name                                         | Description             | Why I stopped                                                                                                                                 |
 |----------------------------------------------|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
 | [atuin](https://github.com/ellie/atuin)      | Better shell history    | The initial experience was amazing, but after a while I found it annoying. The standard ZSH history features is what I'm sticking to for now. |
+
+
 

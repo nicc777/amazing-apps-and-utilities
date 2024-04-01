@@ -11,6 +11,8 @@
 - [My Own Homegrown Stuff](#my-own-homegrown-stuff)
 - [List of Interesting Web Sites (various topics)](#list-of-interesting-web-sites-various-topics)
 - [GitHub Projects of Interest](#github-projects-of-interest)
+- [Development and Software Engineering](#development-and-software-engineering)
+  - [Python](#python)
 - [NO LONGER USING](#no-longer-using)
 
 
@@ -113,7 +115,15 @@ Maintained on a separate page [here](./websites.md)
 |------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | [NiceGUI](https://github.com/zauberzeug/nicegui)                                   | NiceGUI is an easy-to-use, Python-based UI framework, which shows up in your web browser. You can create buttons, dialogs, Markdown, 3D scenes, plots and much more. | Still need to try this out...                                                                  |
 | [Diagrams](https://github.com/mingrammer/diagrams)                                 | Diagrams lets you draw the cloud system architecture in Python code. It was born for prototyping a new system architecture design without any design tools.          | Interesting, but is there a real use case?                                                     |
+| [Mermaid](https://github.com/mermaid-js/mermaid)                                   | Generate diagrams from markdown-like text.                                                                                                                           | Interesting, but is there a real use case?                                                     |
 
+# Development and Software Engineering
+
+## Python
+
+| Name                                                                               | Description                                                                                                                                                          | Personal Notes                                                                                 |
+|------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)      | Style guide                                                                                                                                                          | I use it mostly for the docstring templates.                                                   |
 
 # NO LONGER USING
 

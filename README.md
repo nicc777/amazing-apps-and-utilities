@@ -112,6 +112,8 @@ Maintained on a separate page [here](./websites.md)
 | Name                                                                               | Description                                                                                                                                                          | Personal Notes                                                                                 |
 |------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | [NiceGUI](https://github.com/zauberzeug/nicegui)                                   | NiceGUI is an easy-to-use, Python-based UI framework, which shows up in your web browser. You can create buttons, dialogs, Markdown, 3D scenes, plots and much more. | Still need to try this out...                                                                  |
+| [Diagrams](https://github.com/mingrammer/diagrams)                                 | Diagrams lets you draw the cloud system architecture in Python code. It was born for prototyping a new system architecture design without any design tools.          | Interesting, but is there a real use case?                                                     |
+
 
 # NO LONGER USING
 

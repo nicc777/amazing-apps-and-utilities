@@ -116,6 +116,7 @@ Maintained on a separate page [here](./websites.md)
 | [NiceGUI](https://github.com/zauberzeug/nicegui)                                   | NiceGUI is an easy-to-use, Python-based UI framework, which shows up in your web browser. You can create buttons, dialogs, Markdown, 3D scenes, plots and much more. | Still need to try this out...                                                                  |
 | [Diagrams](https://github.com/mingrammer/diagrams)                                 | Diagrams lets you draw the cloud system architecture in Python code. It was born for prototyping a new system architecture design without any design tools.          | Interesting, but is there a real use case?                                                     |
 | [Mermaid](https://github.com/mermaid-js/mermaid)                                   | Generate diagrams from markdown-like text.                                                                                                                           | Interesting, but is there a real use case?                                                     |
+| [GoAccess](https://github.com/allinurl/goaccess)                                   | Quick access log analysis.                                                                                                                                           | [private gist notes](https://gist.github.com/nicc777/f677f35391831c4b898027bfba2223d9)         |
 
 # Development and Software Engineering
 
